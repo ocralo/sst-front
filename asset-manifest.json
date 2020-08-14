@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "./static/css/main.24a3eebe.chunk.css",
+    "main.js": "./static/js/main.acf8a420.chunk.js",
+    "main.js.map": "./static/js/main.acf8a420.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.51547d9c.js",
+    "runtime-main.js.map": "./static/js/runtime-main.51547d9c.js.map",
+    "static/css/2.42836a8c.chunk.css": "./static/css/2.42836a8c.chunk.css",
+    "static/js/2.853c31b6.chunk.js": "./static/js/2.853c31b6.chunk.js",
+    "static/js/2.853c31b6.chunk.js.map": "./static/js/2.853c31b6.chunk.js.map",
+    "index.html": "./index.html",
+    "precache-manifest.fe5d45ff86f07c573675a1a96d805a84.js": "./precache-manifest.fe5d45ff86f07c573675a1a96d805a84.js",
+    "service-worker.js": "./service-worker.js",
+    "static/css/2.42836a8c.chunk.css.map": "./static/css/2.42836a8c.chunk.css.map",
+    "static/css/main.24a3eebe.chunk.css.map": "./static/css/main.24a3eebe.chunk.css.map",
+    "static/js/2.853c31b6.chunk.js.LICENSE.txt": "./static/js/2.853c31b6.chunk.js.LICENSE.txt",
+    "static/media/DiagnosisCompany.scss": "./static/media/backgroundsLogin.c0e73b06.png",
+    "static/media/check.svg": "./static/media/check.2ecd8c54.svg",
+    "static/media/error.svg": "./static/media/error.77346978.svg",
+    "static/media/iconApp (1).svg": "./static/media/iconApp (1).2b6d9fdf.svg",
+    "static/media/iconArrowBack.svg": "./static/media/iconArrowBack.df143f5f.svg",
+    "static/media/iconArrowDownload.svg": "./static/media/iconArrowDownload.332b62b6.svg",
+    "static/media/iconArrowUp.svg": "./static/media/iconArrowUp.07c11818.svg",
+    "static/media/iconDiagnostic.2b9e2156.svg": "./static/media/iconDiagnostic.2b9e2156.svg",
+    "static/media/iconDocument.9a99ba51.svg": "./static/media/iconDocument.9a99ba51.svg",
+    "static/media/iconGraphics.1b4d7a9a.svg": "./static/media/iconGraphics.1b4d7a9a.svg",
+    "static/media/iconHelp.a3c1ce3f.svg": "./static/media/iconHelp.a3c1ce3f.svg",
+    "static/media/iconMap.4a97a2b4.svg": "./static/media/iconMap.4a97a2b4.svg",
+    "static/media/iconPaper.ac6729a4.svg": "./static/media/iconPaper.ac6729a4.svg",
+    "static/media/iconReport.svg": "./static/media/iconReport.c1c488a9.svg",
+    "static/media/iconUserLogin.svg": "./static/media/iconUserLogin.24791d64.svg",
+    "static/media/iconUserPass.svg": "./static/media/iconUserPass.52d27c0f.svg",
+    "static/media/photo.svg": "./static/media/photo.c76326cd.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.51547d9c.js",
+    "static/css/2.42836a8c.chunk.css",
+    "static/js/2.853c31b6.chunk.js",
+    "static/css/main.24a3eebe.chunk.css",
+    "static/js/main.acf8a420.chunk.js"
+  ]
+}
